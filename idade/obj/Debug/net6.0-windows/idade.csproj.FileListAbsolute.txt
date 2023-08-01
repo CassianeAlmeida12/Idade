@@ -1,0 +1,17 @@
+C:\Users\2022102020029\source\repos\idade\idade\bin\Debug\net6.0-windows\idade.exe
+C:\Users\2022102020029\source\repos\idade\idade\bin\Debug\net6.0-windows\idade.deps.json
+C:\Users\2022102020029\source\repos\idade\idade\bin\Debug\net6.0-windows\idade.runtimeconfig.json
+C:\Users\2022102020029\source\repos\idade\idade\bin\Debug\net6.0-windows\idade.dll
+C:\Users\2022102020029\source\repos\idade\idade\bin\Debug\net6.0-windows\idade.pdb
+C:\Users\2022102020029\source\repos\idade\idade\obj\Debug\net6.0-windows\idade.csproj.AssemblyReference.cache
+C:\Users\2022102020029\source\repos\idade\idade\obj\Debug\net6.0-windows\idade.Form1.resources
+C:\Users\2022102020029\source\repos\idade\idade\obj\Debug\net6.0-windows\idade.csproj.GenerateResource.cache
+C:\Users\2022102020029\source\repos\idade\idade\obj\Debug\net6.0-windows\idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020029\source\repos\idade\idade\obj\Debug\net6.0-windows\idade.AssemblyInfoInputs.cache
+C:\Users\2022102020029\source\repos\idade\idade\obj\Debug\net6.0-windows\idade.AssemblyInfo.cs
+C:\Users\2022102020029\source\repos\idade\idade\obj\Debug\net6.0-windows\idade.csproj.CoreCompileInputs.cache
+C:\Users\2022102020029\source\repos\idade\idade\obj\Debug\net6.0-windows\idade.dll
+C:\Users\2022102020029\source\repos\idade\idade\obj\Debug\net6.0-windows\refint\idade.dll
+C:\Users\2022102020029\source\repos\idade\idade\obj\Debug\net6.0-windows\idade.pdb
+C:\Users\2022102020029\source\repos\idade\idade\obj\Debug\net6.0-windows\idade.genruntimeconfig.cache
+C:\Users\2022102020029\source\repos\idade\idade\obj\Debug\net6.0-windows\ref\idade.dll
